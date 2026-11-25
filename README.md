@@ -5,7 +5,7 @@
 **Software engineer from Indonesia building developer tools, cloud automation, and AI infrastructure.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-ronaldyuwandika-181717?style=flat-square&logo=github)](https://github.com/ronaldyuwandika)
-[![X](https://img.shields.io/badge/X-@ronalddimasy-000000?style=flat-square&logo=x)](https://x.com/ronalddimasy)
+[![X](https://img.shields.io/badge/X-@ronalddimasy-000000?style=flat-square&logo=x)](https://x.com/ronaldyuwandika)
 
 </div>
 
